@@ -17,7 +17,7 @@ To explore and visualize the **landscape of electric vehicles** (BEVs and PHEVs)
 
 ## 📁 Dataset Used
 
-- **Source**: [Kaggle - EV Population Dataset](https://www.kaggle.com/)
+- **Source**: [Kaggle - EV Population Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data)
 - **Records**: 119,000+ EV records
 - **Fields Included**:
   - `DOL Vehicle ID`
@@ -110,3 +110,5 @@ To explore and visualize the **landscape of electric vehicles** (BEVs and PHEVs)
 - Gained deeper insights into real-world EV adoption, government incentives, and consumer preferences.
 
 ---
+## References
+- https://www.youtube.com/watch?v=Y22CBLeHffg
